@@ -1,0 +1,17 @@
+<assembly>
+
+    <id>dep</id>
+
+    <formats>
+        <format>zip</format>
+    </formats>
+
+    <includeBaseDirectory>false</includeBaseDirectory>
+
+    <dependencySets>
+        <dependencySet>
+            <scope>runtime</scope>
+        </dependencySet>
+    </dependencySets>
+
+</assembly>
